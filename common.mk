@@ -1,5 +1,5 @@
 
-LOCAL_PATH := vendor/wmhuang/prebuilt
+LOCAL_PATH:= $(call my-dir)
 
 ## China Apps addons for exTHmUI
 # Custom packages
