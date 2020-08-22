@@ -7,7 +7,8 @@ PRODUCT_PACKAGES += \
     ViaBrowserCN \
     Gboard \
     Coolapk \
-    GeometricWeather
+    GeometricWeather \
+    Brevent
 
 ## Lawnchair
 # Prebuilt Packages
